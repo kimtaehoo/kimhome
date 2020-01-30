@@ -24,6 +24,14 @@ namespace Kimtaehoo_hompage
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+
+            // DI 의존성 주입
+
+            // Session - 서비스에 등록함
+            services.AddSession();
+            // Identity
+
+            // web API 관련 기능
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -41,7 +49,7 @@ namespace Kimtaehoo_hompage
             }
             app.UseHttpsRedirection();
             app.UseStaticFiles();
-
+            app.UseSession();  // App에 세션을 적용
             app.UseRouting();
 
             app.UseAuthorization();

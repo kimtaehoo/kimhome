@@ -52,7 +52,6 @@ C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcor
 C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\obj\Debug\netcoreapp3.1\Kimtaehoo hompage.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
@@ -67,3 +66,7 @@ C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcor
 C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\obj\Debug\netcoreapp3.1\Razor\Views\Home\LoginSuccess.cshtml.g.cs
+C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\obj\Debug\netcoreapp3.1\Kimtaehoo hompage.MvcApplicationPartsAssemblyInfo.cache
