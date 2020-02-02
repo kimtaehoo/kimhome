@@ -70,3 +70,6 @@ C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\obj\Debug\netcor
 C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
 C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
 C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\obj\Debug\netcoreapp3.1\Kimtaehoo hompage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\obj\Debug\netcoreapp3.1\Razor\Views\Note\Add.cshtml.g.cs
+C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\obj\Debug\netcoreapp3.1\Razor\Views\Note\Edit.cshtml.g.cs
+C:\Users\popop\source\repos\Kimtaehoo hompage\Kimtaehoo hompage\obj\Debug\netcoreapp3.1\Razor\Views\Note\Index.cshtml.g.cs
