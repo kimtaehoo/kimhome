@@ -25,22 +25,20 @@
                         </li>
                     </ul>
                     <ul class="nav navbar-nav flex-grow-1">
+                        <li class="nav-item">
                         @if (Context.Session.GetInt32("USER_LOGIN_KEY") == null)
                         {
-                            <li>
-                                <a asp-area="" asp-controller="Account" asp-action="Login">로그인</a>
-                            </li>
-
-                            <li>
-                                <a asp-area="" asp-controller="Account" asp-action="Register">회원가입</a>
-                            </li>                    
+                            
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">로그인</a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Register">회원가입</a>
+                                             
                         }
                         else
                         {
-                            <li>
-                                >
-                                <a asp-area="" asp-controller="Account" asp-action="logout">로그아웃</a>
-                            </li>
+                           
+                                
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="logout">로그아웃</a>
+                            
                         }
                     </ul>
                 </div>
