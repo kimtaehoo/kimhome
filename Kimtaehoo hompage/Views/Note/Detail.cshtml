@@ -7,16 +7,17 @@
 
 <div class="row">
     <div class="col-lg-10">
-        <div class="panel panel-default">
+        <div class="Panel Panel-default">
             <div class="panel-heading">
                 <label>제목 : </label> @Model.NoteTitle
             </div>
-            <div class="panel-body">
-                @Model.NoteContents
+            <div class="Panel-body">
+                @Html.Raw(Model.NoteContents) 
             </div>
-            <div class="panel-footer text-rigth">
+            <div class="Panel-footer text-rigth">
                 <a class="btn btn-primary" asp-controller="Note" asp-action="Index">목록</a>
             </div>
         </div>
     </div>
+</div>
 
